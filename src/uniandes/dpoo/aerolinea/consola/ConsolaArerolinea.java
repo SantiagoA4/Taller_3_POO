@@ -9,6 +9,7 @@ import uniandes.dpoo.aerolinea.persistencia.TipoInvalidoException;
 
 public class ConsolaArerolinea extends ConsolaBasica
 {
+	
     private Aerolinea unaAerolinea;
 
     /**
